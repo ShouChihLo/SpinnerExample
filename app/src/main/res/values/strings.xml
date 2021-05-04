@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpinnerExample</string>
+    <string name="favorite">Your most favorite sports is: %s</string>
+
+    <string-array name="balls">
+        <item>Basketball</item>
+        <item>Football</item>
+        <item>Baseball</item>
+    </string-array>
+</resources>
